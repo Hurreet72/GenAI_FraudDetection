@@ -1,6 +1,6 @@
-# 🚀 Credit Card Fraud Detection Using GANs
+#  Credit Card Fraud Detection Using GANs
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on improving the accuracy of a credit card fraud detection system by addressing the problem of data imbalance. In real-world financial datasets, fraudulent transactions are much fewer compared to legitimate ones, which makes it difficult for machine learning models to perform well.
 
@@ -10,7 +10,7 @@ This project is based on a Coursera Guided Project.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand the problem of imbalanced datasets  
 - Generate synthetic fraud data using GANs  
@@ -20,7 +20,7 @@ This project is based on a Coursera Guided Project.
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python  
 - TensorFlow  
@@ -32,7 +32,7 @@ This project is based on a Coursera Guided Project.
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 1. Data preprocessing and analysis  
 2. Imbalance detection  
@@ -44,7 +44,7 @@ This project is based on a Coursera Guided Project.
 
 ---
 
-## 📈 Results
+##  Results
 
 - Improved fraud detection performance  
 - Balanced dataset using GAN-generated samples  
